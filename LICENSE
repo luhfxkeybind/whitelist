@@ -5,19 +5,19 @@ Copyright (c) 2025 luhfxkeybind
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated files (the "Software"), to use, copy, modify,
 merge, publish, distribute, sublicense, and/or sell copies of the Software,
-**but only under the following conditions**:
+but only under the following conditions:
 
-1. **Access to Features Is Controlled**: Use of the core functionality (e.g., particle toggles, pyro system)
+1. Access to Features Is Controlled: Use of the core functionality (e.g., particle toggles, pyro system)
    is restricted to users who are explicitly whitelisted by the repository owner via
    an official access list (e.g., whitelist.json hosted on GitHub).
 
-2. **No Unauthorized Use**: Users not present in the whitelist may not use or redistribute
+2. No Unauthorized Use: Users not present in the whitelist may not use or redistribute
    the core gameplay functionality enabled by this system in their own games.
 
-3. **Preserve Attribution**: Any modified versions of this code must include original attribution
+3. Preserve Attribution: Any modified versions of this code must include original attribution
    to the author in a visible comment or notice.
 
-4. **Use by Permission Only**: Only individuals who have been granted access by the original
+4. Use by Permission Only: Only individuals who have been granted access by the original
    founder (repository owner) may utilize the Software, regardless of distribution.
    Possession of the Software alone does not grant the right to use it.
    Explicit permission must be granted directly by the founder.
