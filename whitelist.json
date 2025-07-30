@@ -1,9 +1,12 @@
 {
+  "shutdown": false,
   "whitelist": [
     "davyalr",
     "imachild4532",
     "juvehockey",
     "RHLAssets"
   ],
-  "shutdown": false
+  "groups": [
+    35724461
+  ]
 }
