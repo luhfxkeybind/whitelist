@@ -1,5 +1,5 @@
 {
-  "shutdown": false,
+  "shutdown": true,
   "whitelist": [
     "davyalr",
     "imachild4532",
